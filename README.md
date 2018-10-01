@@ -12,3 +12,4 @@ The people contributing to this project include:
 - [Veronica Berry](https://github.com/VeronicaB97)
 - [Callum Tate](https://github.com/callumtate)
 - [Emily Guigue](https://github.com/emilyguigue)
+- *hello there*
